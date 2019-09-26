@@ -1,0 +1,1 @@
+# kaggle-competition-GoogleLandmarkRetrieval2019
